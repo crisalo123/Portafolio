@@ -2,6 +2,7 @@
   "name": "hoja_de_vida",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://crisalo123.github.io/Portafolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
