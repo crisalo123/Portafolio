@@ -13,9 +13,7 @@ export const Experence = () => {
         <span className="text-xs">Jun.2021 - oct.2024 -  3 años y 4 meses</span>
         
         <p className='font-semibold'>Descripcion</p>
-         
          <p>Desarrollo de Software frontend empresarial.Elaboracion de interfaces de usuarios robustas e interactivas para soluciones internas de la compañia y centralizacion de negocios como servicio al cliente, venta y creditos para vehiculos, manejo y especificaciones de reportes en powerbi.</p>
-
          <p className='pt-5 font-bold'>Clientes destacados</p>
          <div className='flex justify-center mx-auto  h-28  '>
             <img src={logoPromotec} alt="Promotec" className='w-44 h-44 -mt-10 pl-12' />
